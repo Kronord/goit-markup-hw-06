@@ -562,6 +562,8 @@ body {
     border-radius: 50%;
     background-color: var(--secondary-color);
     cursor: pointer;
+} 
+.modal-close {
     transition: fill var(--primary-transition);
 }
 
