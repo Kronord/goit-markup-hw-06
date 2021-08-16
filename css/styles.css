@@ -562,6 +562,7 @@ body {
     border-radius: 50%;
     background-color: var(--secondary-color);
     cursor: pointer;
+    transition: fill var(--primary-transition);
 }
 
 .close-button:hover .modal-close,
